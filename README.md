@@ -6,6 +6,4 @@ Let's Connect :-
 - Linkedin : **https://linkedin.com/in/abhayslinkidin**
 
 I would be grateful for any feedback or suggestions you might have.
-Thank you for your time and support.<br>
-Best regards,<br>
-Abhay kr.
+Thank you for your time and support.
