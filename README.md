@@ -2,7 +2,7 @@
 # techwithabhay - Portfolio Website
 
 A personal portfolio website showcasing projects, skills, and experience, built to represent the professional profile of Abhay.
-- check it out : **https://abhaysgitt.github.io/techwithabhay/**
+- check it out : **https://abhaysgitt.gitt.io/techwithabhay/**
   
 ## Introduction
 
